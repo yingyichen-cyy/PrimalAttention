@@ -1,0 +1,10 @@
+*.so
+*.o
+*.pyc
+data-bin/
+*.pt
+examples/language_model/wikitext-103-v1.zip
+examples/language_model/wikitext-103/
+fairseq/data/*.cpp
+fairseq/data/*.cpp
+fairseq/version.py
