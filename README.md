@@ -1,5 +1,5 @@
 # PrimalAttention
-(NeurIPS 2023) PyTorch implementation of **Primal-Attention** available on https://arxiv.org/abs/2305.19798.
+(NeurIPS 2023) PyTorch implementation of **Primal-Attention** available on https://openreview.net/forum?id=bRyduWAAVT.
 
 **Primal-Attention: Self-attention through Asymmetric Kernel SVD in Primal Representation**
 
