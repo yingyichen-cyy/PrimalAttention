@@ -34,7 +34,7 @@ If our project is helpful for your research, please consider citing:
 Please refer to different folders for detailed experiment instructions. 
 Note that we specified **different environments for different tasks**, among which the environment for reinforcement learning is the most complicated.
 
-Please feel free to contact yingyi.chen@esat.kuleuven.be for any discussion.
+Please feel free to contact chenyingyi076@gmail.com for any discussion.
 
 * [1. Time Series Classification (UEA)](https://github.com/yingyichen-cyy/PrimalAttention/tree/master/PrimalAttention_TimeSeries)
   - [PrimalFormer](https://github.com/yingyichen-cyy/PrimalAttention/tree/master/PrimalAttention_TimeSeries/PrimalFormer)
