@@ -3,8 +3,8 @@
 
 **Primal-Attention: Self-attention through Asymmetric Kernel SVD in Primal Representation**
 
-by *[Yingyi Chen*](https://yingyichen-cyy.github.io/),
-[Qinghua Tao*](https://qinghua-tao.github.io/), 
+by *[Yingyi Chen](https://yingyichen-cyy.github.io/),
+[Qinghua Tao](https://qinghua-tao.github.io/), 
 [Francesco Tonin](https://taralloc.github.io/), 
 [Johan A.K. Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html)*
 
